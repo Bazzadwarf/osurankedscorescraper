@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("osurankedsscorescraper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("osu! Ranked Score Scraper")]
+[assembly: AssemblyDescription("Scrapes the osu.ppy.sh Ranked Score leaderboard and dumps to csv")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("osurankedsscorescraper")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("bazzadwarf")]
+[assembly: AssemblyProduct("osu! Ranked Score Scraper")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
